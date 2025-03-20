@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alson!</h1>
 <h3 align="center">Just your average joe from Singapore!</h3>
 
-- 🔭 I’m currently working on **finetuning with unsloth**
+- 🔭 I’m currently learning **Helix**
+
+- 👷‍♂️ I'm working on **robotic navigation**
 
 - 👯 I’m looking to collaborate on **anything fun**
 
