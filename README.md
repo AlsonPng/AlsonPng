@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alson!</h1>
 
-- 🔭 I’m currently learning **Helix**
-
-- 👷‍♂️ I'm working on **Robotic Navigation**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alson-png-✝%ef%b8%8f🇸🇬🇨🇳🇮🇩-2812192b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alson-png-✝%ef%b8%8f🇸🇬🇨🇳🇮🇩-2812192b4" height="30" width="40" /></a>
